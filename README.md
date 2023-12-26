@@ -8,8 +8,12 @@ It lets you encrypt and decrypt text using methods :
 - Encrypt images using AES.
 
   
-# Interface sample
+# GUI
+**Ceasar Chipher** <br>
+![Image for GUI](https://github.com/AbdelrahmanSamir12/Encryption-Algorithms-GUI/blob/main/Images/ceasar.png)
 
+**Image Encrytion using AES** <br>
+![Image for GUI](https://github.com/AbdelrahmanSamir12/Encryption-Algorithms-GUI/blob/main/Images/Images_AES.png)
 
 # How to use 
 - Download the files.
